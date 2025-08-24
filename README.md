@@ -13,7 +13,7 @@
   <!-- Laravel (لوگوی قرمز اصلی) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50"/>
   <!-- Livewire شفاف -->
-  <img src="https://logo.svgcdn.com/l/livewire-original-wordmark.png" alt="livewire" width="50" height="50"/>
+  <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="50" height="50"/>
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <!-- Tailwind CSS -->
