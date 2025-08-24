@@ -3,7 +3,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:f97316&height=120&section=header" width="100%" />
-💻 توسعه‌دهنده Back-end با **Laravel** و **Livewire (v3)**  
+#💻 توسعه‌دهنده Back-end با **Laravel** و **Livewire (v3)**  
 🚀 علاقه‌مند به ساخت پروژه‌های فروشگاهی و اپلیکیشن‌های کاربردی  
 
 ---
